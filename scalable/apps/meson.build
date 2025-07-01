@@ -319,7 +319,6 @@ regular_files = [
     'shotwell.svg',
     'signal-desktop.svg',
     'sioyek.svg',
-    'skypeforlinux.svg',
     'slack.svg',
     'sound-juicer.svg',
     'soundconverter.svg',
@@ -1267,11 +1266,6 @@ link_files = {
     'slack.svg': [
         'com.slack.Slack.svg',
     ],
-    'skypeforlinux.svg': [
-        'com.skype.Client.svg',
-        'ms-skype.svg',
-        'skype.svg',
-    ],
     'rawtherapee.svg': [
         'com.rawtherapee.RawTherapee.svg',
     ],
@@ -1497,6 +1491,7 @@ link_files = {
     ],
     'brave-desktop.svg': [
         'brave-browser.svg',
+        'com.brave.Browser.svg',
     ],
     'xsane.svg': [
         'blueman-scanner.svg',
